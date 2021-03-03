@@ -5,8 +5,8 @@
 1. Pregunto
 
 > Voume tirar de un puente. -Christian, todos os dias.
-~~~
 
+~~~
 function alertDiaFinal(){
     alert("hoy!");
   }
