@@ -10,7 +10,7 @@
     <h2>Llorando</h2>
         <a href="google.com">Bing</a><br/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/300px-Google_Images_2015_logo.svg.png" alt="">
-    <a href="referencias.html">Outra paxina</a><br/>
+    <a href="referencias.md">Outra paxina</a><br/>
     <ul>
         <li>Dolor</li>
         <li>Dolor</li>
