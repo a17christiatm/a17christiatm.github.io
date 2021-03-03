@@ -16,9 +16,7 @@
         <li>Dolor</li>
     </ul>
 
-    <blockquote>
-        No tiene el que mas sufre si no el que menos tiene
-    </blockquote>
+
     <textarea name="" id="" cols="30" rows="10">
         <html>
             <head><title></title></head>
