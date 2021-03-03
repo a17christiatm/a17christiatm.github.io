@@ -8,24 +8,21 @@
 </head>
 <body>
     <h2>Llorando</h2>
+        <a href="google.com">Bing</a><br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/300px-Google_Images_2015_logo.svg.png" alt="">
+    <a href="referencias.html">Outra paxina</a><br/>
     <ul>
         <li>Dolor</li>
         <li>Dolor</li>
         <li>Dolor</li>
         <li>Dolor</li>
         <li>Dolor</li>
-    </ul>
-
-
+    </ul><br/>
     <textarea name="" id="" cols="30" rows="10">
         <html>
             <head><title></title></head>
             <body></body>
         </html>
-
     </textarea>
-    <a href="google.com">Bing</a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Google_Images_2015_logo.svg/300px-Google_Images_2015_logo.svg.png" alt="">
-    <a href="referencias.html">Outra paxina</a>
 </body>
 </html>
